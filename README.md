@@ -21,7 +21,7 @@ Each model is explained with its basic working principles and implemented using 
 Installation
 To get started with this repository, clone it and install the necessary dependencies:
 
-'''bash
-git clone https://github.com/Nimish2098/Machine-Learning-Projects-.git
+```bash
+- git clone https://github.com/Nimish2098/Machine-Learning-Projects-.git
 - cd Basic-Models-Core-Mechanisms
 - pip install -r requirements.txt
