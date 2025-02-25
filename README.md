@@ -23,5 +23,5 @@ To get started with this repository, clone it and install the necessary dependen
 
 ```bash
 - git clone https://github.com/Nimish2098/Machine-Learning-Projects-.git
-- cd Basic-Models-Core-Mechanisms
-- pip install -r requirements.txt
+- cd Machine Learning Projects 
+
